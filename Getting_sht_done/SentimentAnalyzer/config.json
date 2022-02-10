@@ -1,0 +1,11 @@
+{
+
+    "BERT_MODEL":"bert-base-cased",
+    "PRE_TRAINED_MODEL":"SentimentAnalyzer/assets/model_state_dict.bin",
+    "CLASS_NAMES":[
+                    "negative",
+                    "neutral",
+                    "positive"
+                  ],
+    "MAX_SEQ_LENGTH":160
+}
