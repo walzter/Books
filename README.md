@@ -2,7 +2,7 @@ This is a repository for the books, tutorials, guides,papers and other resources
 
 So far the books are: 
 
-- Getting sht done with PyTorch (145 pages) 
+- Getting sht done with PyTorch (145 pages) [DONE] 
 - One-shot learning with PyTorch (179 pages)
 - AI Fundamentals (191 pages) 
 - DL Best Practices (222 pages) 
